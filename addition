@@ -1,0 +1,10 @@
+#include<stdio.h>
+void main()
+{
+    int a,b,res;
+    printf("ENter the values to add");
+    scanf("%d",&a);
+    scanf("%d",&b);
+    res=a+b;
+    printf("%d is result of adding two numbers",res);
+}
